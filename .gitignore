@@ -5,5 +5,3 @@ node_modules/
 build/
 dist/
 db.js
-package-lock.json
-package.json
